@@ -1,13 +1,13 @@
-# Hunters Field
+# Animal's Hunt
 
-🎮 **Hunters Field** is an First person shooting game developed using Unreal Engine 5 with Blueprints. This project showcases the power of UE5's Blueprint system and highlights seamless game mechanics and dynamic gameplay.
+🎮 **Animal's Hunt** is an First person shooting game developed using Unreal Engine 5 with Blueprints. This project showcases the power of UE5's Blueprint system and highlights seamless game mechanics and dynamic gameplay.
 
 ---
 
 ## 🔥 Features
 
 - **Dynamic Environments**: Beautifully crafted levels using UE5's landmass plugin and water plugin.
-- **Animals**: Buid animal Ai wich reacts to hit.
+- **Animals**: Buid animal Ai which reacts to hit.
 - **HUD**: Real-time updating HUD.
 - **Blueprint-Driven**: Entirely built using Unreal Engine's visual scripting, making it modular and easy to expand.
 - **Optimized Performance**: Leveraging UE5 features for a smooth experience on supported devices.
